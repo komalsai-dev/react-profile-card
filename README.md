@@ -24,3 +24,12 @@ git clone https://github.com/komalsai-dev/react-profile-card.git
 ```sh
 cd react-profile-card
 ```
+### 3️⃣ Install dependencies:
+```sh
+npm install
+```
+### 4️⃣ Start the development server:
+```sh
+npm start
+```
+
