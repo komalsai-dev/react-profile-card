@@ -20,6 +20,5 @@ This project is a **React-based user profile card** that fetches random user det
 ```sh
 git clone https://github.com/komalsai-dev/react-profile-card.git
 
-### 2️⃣ Navigate to the project folder:
-```sh
 cd react-profile-card
+
